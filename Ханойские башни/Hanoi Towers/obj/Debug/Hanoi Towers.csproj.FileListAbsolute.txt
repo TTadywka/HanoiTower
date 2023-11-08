@@ -1,0 +1,22 @@
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\bin\Debug\FluentWPF.dll
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.AssemblyReference.cache
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\DragAndDropTest.g.cs
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\ManualGame.g.cs
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\App.g.cs
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers_MarkupCompile.cache
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers_MarkupCompile.lref
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\App.baml
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\DragAndDropTest.baml
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\ManualGame.baml
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.g.resources
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CopyComplete
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\MainWindow.g.cs
+C:\Users\User 1\Desktop\KFU-Hanoi-Towers-master\Hanoi Towers\obj\Debug\MainWindow.baml

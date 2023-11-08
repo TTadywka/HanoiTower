@@ -1,0 +1,17 @@
+﻿<fw:AcrylicWindow x:Class="Hanoi_Towers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hanoi_Towers"
+        xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF"
+        mc:Ignorable="d"
+        Title="Ханойские башни"  Height="416.901" Width="522.5" Background="{x:Null}" ResizeMode="NoResize">
+    <Grid HorizontalAlignment="Left" Width="512" Height="388" VerticalAlignment="Top" Margin="0,0,0,-2">
+        <TextBlock Margin="124,36,124,0" TextWrapping="Wrap" Text="Ханойские башни: начало" VerticalAlignment="Top" FontSize="22" Foreground="White"/>
+        <Button Style="{StaticResource ButtonRevealStyle}" Content="Играть" Margin="213,91,213,0" VerticalAlignment="Top" Click="Button_Click" Height="29"/>
+        <TextBlock Margin="181,137,182,0" TextWrapping="Wrap" Text="Правила игры" VerticalAlignment="Top" FontSize="22" Foreground="White"/>
+        <TextBlock Margin="10,180,10,-21" TextWrapping="Wrap" Text="Есть 1 пирамидка с дисками разного размера, и еще 2 пустые пирамидки. Надо переместить диски с одной пирамидки на другую. Перекладывать можно только по одному диску за ход. Складывать диски можно только меньший на больший." VerticalAlignment="Top" FontSize="22" Foreground="White" TextAlignment="Center" Height="195"/>
+
+    </Grid>
+</fw:AcrylicWindow>

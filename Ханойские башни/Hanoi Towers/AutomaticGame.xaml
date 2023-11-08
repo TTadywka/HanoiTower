@@ -1,0 +1,26 @@
+﻿<fw:AcrylicWindow x:Class="Hanoi_Towers.AutomaticGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF"
+        xmlns:local="clr-namespace:Hanoi_Towers"
+        mc:Ignorable="d"
+        Title="Игра" Icon="Icon1.ico" Height="478.307" Width="800" ResizeMode="NoResize" Background="Transparent">
+    <Canvas fw:PointerTracker.Enabled="True" Background="Transparent" x:Name="gameField" Margin="0,0,2,0" Width="792" Height="448">
+        <Rectangle Fill="#FFFEF7" Height="20" Canvas.Left="48" Stroke="#FFFEF7" Canvas.Bottom="0" Width="200"/>
+        <Rectangle Fill="#FFFEF7" Height="20" Canvas.Left="296" Stroke="#FFFEF7" Canvas.Bottom="0" Width="200"/>
+        <Rectangle Fill="#FFFEF7" Height="20" Canvas.Right="48" Stroke="#FFFEF7" Canvas.Bottom="0" Width="200"/>
+        <!--Линии-->
+        <Rectangle Fill="#FFFEF7" Height="300" Canvas.Left="143" Stroke="#FFFEF7" Canvas.Bottom="20" Width="10"/>
+        <Rectangle Fill="#FFFEF7" Height="300" Canvas.Left="391" Stroke="#FFFEF7" Canvas.Bottom="20" Width="10"/>
+        <Rectangle Fill="#FFFEF7" Height="300" Canvas.Right="143" Stroke="#FFFEF7" Canvas.Bottom="20" Width="10"/>
+        <Canvas Height="300" x:Name="column0" Canvas.Left="48" Canvas.Bottom="20" Width="200"/>
+        <Canvas Height="300" x:Name="column1" Canvas.Left="296" Canvas.Bottom="20" Width="200"/>
+        <Canvas Height="300" x:Name="column2" Canvas.Left="544" Canvas.Bottom="20" Width="200"/>
+        <Button Style="{StaticResource ButtonRevealStyle}" x:Name="startBtn" Content="Старт" Canvas.Left="39" Canvas.Top="74" Width="75" Click="startBtn_Click" Height="25"/>
+        <Slider x:Name="speedSlider" ValueChanged="Slider_ValueChanged" Minimum="100" Maximum="1000" Value="500" SmallChange="10" LargeChange="10" Canvas.Left="169" Canvas.Top="39" Width="172"/>
+        <Label Content="Скорость анимации" Canvas.Left="33" Canvas.Top="31" Foreground="#FFFEF7"/>
+        <Button Style="{StaticResource ButtonRevealStyle}" x:Name="clearBtn" Content="Сброс" Canvas.Left="143" Canvas.Top="74" Width="72" Click="ClearBtn_Click" Height="25"/>
+    </Canvas>
+</fw:AcrylicWindow>
